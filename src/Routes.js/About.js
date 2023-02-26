@@ -7,7 +7,7 @@ function About() {
   return (
     <div>
       <Navbar/>
-      <BgImgComp2 heading='ABOUT.' subheading="I'm a Full-Stack Developer"/>
+      <BgImgComp2 heading='ABOUT' subheading="I'm a Full-Stack Developer"/>
       <Footer/>
     </div>
   )
