@@ -1,5 +1,5 @@
 # Sample view
-![alt text](https://github.com/devAk-404/portfolio/blob/main/portfolio.png?raw=true)
+![alt text](https://github.com/devAk-404/portfolio/blob/main/portfolio.png)
 
 # Getting Started with Create React App
 
