@@ -1,0 +1,23 @@
+{
+    "work": 
+    [
+        {
+            "id":"1",
+            "heading":"Food Delivery Website",
+            "img":"https://colorlib.com/wp/wp-content/uploads/sites/2/fooddy-24-7-food-delivery-wordpress-theme.jpg",
+            "text":"Retail food delivery is a courier service in which a restaurant, store, or independent food-delivery company delivers food to a customer. An order is typically made either through a restaurant or grocer's website or mobile app, or through a food ordering company. The delivered items can include entrees, sides, drinks, desserts, or grocery items and are typically delivered in boxes or bags. The delivery person will normally drive a car, but in bigger cities where homes and restaurants are closer together, they may use bikes or motorized scooters."
+        },
+        {
+            "id":"2",
+            "heading":"E-commerce Website",
+            "img":"https://w3layouts.com/wp-content/uploads/2021/12/Shoppy-Kart-Website-Template-eCommerce-scaled.jpg",
+            "text":"E-commerce typically uses the web for at least a part of a transaction's life cycle although it may also use other technologies such as e-mail. Typical e-commerce transactions include the purchase of products (such as books from Amazon) or services (such as music downloads in the form of digital distribution such as iTunes Store).[1] There are three areas of e-commerce: online retailing, electronic markets, and online auctions. E-commerce is supported by electronic business.[2] The existence value of e-commerce is to allow consumers to shop online and pay online through the Internet, saving the time and space of customers and enterprises, greatly improving transaction efficiency, especially for busy office workers, but also saving a lot of valuable time"
+        },
+        {
+            "id":"3",
+            "heading":"Banking Website",
+            "img":"https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf8725d075f4be_Bank---webflow-template-presentationGallery-images-1440x900_1.png",
+            "text":"Online banking, also known as internet banking, web banking or home banking, is an electronic payment system that enables customers of a bank or other financial institution to conduct a range of financial transactions through the financial institution's website. The online banking system will typically connect to or be part of the core banking system operated by a bank to provide customers access to banking services in addition to or in place of traditional branch banking. Online banking significantly reduces the banks' operating cost by reducing reliance on a branch network and offers greater convenience to some customers by lessening the need to visit a branch bank as well as the convenience of being able to perform banking"
+        }
+    ]
+}
